@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "howItWorks": "How It Works",
+    "events": "Events",
+    "apply": "Apply",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Mongolia's First Personal Matchmaking Service",
+    "subtitle": "We've hosted 45+ events, connected 1,500+ people, and celebrated 8 marriages.",
+    "ctaPrimary": "Apply Now",
+    "ctaSecondary": "Learn More",
+    "badge": "No photo required to apply",
+    "stats": {
+      "events": "45+ Events",
+      "people": "1,500+ People",
+      "marriages": "8 Marriages"
+    }
+  },
+  "socialProof": {
+    "title": "What People Say",
+    "testimonials": [
+      {
+        "quote": "I've tried many apps before, but Singles.in.UB was different. The personal attention made all the difference.",
+        "author": "B. Saran",
+        "role": "24, Teacher"
+      },
+      {
+        "quote": "Met my match at an event. We've been together for 6 months now.",
+        "author": "G. Bat",
+        "role": "29, Engineer"
+      },
+      {
+        "quote": "The perfect service for me. Designed for people looking for something serious.",
+        "author": "D. Nara",
+        "role": "31, Doctor"
+      }
+    ]
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "Helping you find your perfect match",
+    "story": "Singles.in.UB was founded in 2019 in Ulaanbaatar with a simple mission: to provide Mongolian singles with a serious, respectful way to find love.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To create a personalized matchmaking service that truly understands and serves Mongolian people."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        { "title": "Serious Intent", "desc": "We only serve people looking for genuine relationships." },
+        { "title": "Privacy", "desc": "Your information is completely confidential and secure." },
+        { "title": "Personal Attention", "desc": "Human judgment, not algorithms. Tailored for you." }
+      ]
+    },
+    "team": {
+      "title": "Our Team",
+      "members": [
+        { "name": "Sainkhuu Khishigbat", "role": "Founder", "bio": "Marketing & Strategic Management" }
+      ]
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Three simple steps to meet your match",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Apply",
+        "description": "Fill out our online application. No photo required — we start with who you are. Your information is completely confidential."
+      },
+      {
+        "number": "02",
+        "title": "Get Matched",
+        "description": "Our experts hand-select compatible matches based on your personality and what you're looking for."
+      },
+      {
+        "number": "03",
+        "title": "Meet",
+        "description": "Meet your match in a safe, comfortable environment. Take the first step — let history do the rest."
+      }
+    ],
+    "cta": "Get Started",
+    "privacy": "No photo required • Complete privacy"
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Speed dating and social mixers",
+    "upcoming": {
+      "title": "Upcoming Events",
+      "events": [
+        {
+          "title": "Speed Dating Night",
+          "date": "April 5, 2025",
+          "time": "6:00 PM - 9:00 PM",
+          "location": "UB City, 5th Floor",
+          "spots": "20 spots remaining",
+          "price": "₮35,000"
+        },
+        {
+          "title": "Singles Mixer",
+          "date": "April 19, 2025",
+          "time": "7:00 PM - 10:00 PM",
+          "location": "The Blue Sky Lounge",
+          "spots": "30 spots remaining",
+          "price": "₮25,000"
+        }
+      ]
+    },
+    "past": {
+      "title": "Past Events",
+      "images": [
+        { "alt": "Speed dating event 1" },
+        { "alt": "Singles mixer" },
+        { "alt": "Valentine event" },
+        { "alt": "Group photo" }
+      ]
+    },
+    "cta": "Register Now"
+  },
+  "apply": {
+    "title": "Apply",
+    "subtitle": "Take the first step to meet your match",
+    "privacy": "No photo required • Your information stays private",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "age": "Age",
+      "gender": "Gender",
+      "genderOptions": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      },
+      "occupation": "Occupation",
+      "about": "Tell us about yourself",
+      "lookingFor": "Describe who you're looking for",
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "success": "Application submitted! We'll be in touch soon."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We're here to help.",
+    "info": {
+      "email": {
+        "label": "Email",
+        "value": "hello@singlesinub.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+976 8001 1119"
+      },
+      "address": {
+        "label": "Address",
+        "value": "Ulaanbaatar, Mongolia"
+      }
+    },
+    "social": {
+      "title": "Social Media",
+      "follow": "Follow Us"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!"
+    }
+  },
+  "footer": {
+    "tagline": "Mongolia's First Personal Matchmaking Service",
+    "links": {
+      "company": "Company",
+      "legal": "Legal",
+      "connect": "Connect"
+    },
+    "copyright": "© 2025 Singles.in.UB. All rights reserved."
+  }
+}
